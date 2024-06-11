@@ -1,0 +1,114 @@
+@media screen and (max-width: 600px) { 
+}
+    
+
+body {background-color: aquamarine;
+}
+
+.p1 {font-size: 200%;
+text-align: center;
+background-color: blueviolet;
+border-color: red;
+border-width: 4px;
+border-style: double;
+margin-left: 15%;
+margin-right: 10%;
+padding-left: 2%;
+padding-top: 1%;
+}
+
+.p2 {font-size: 150%;
+    text-align: center;
+    background-color: rgb(255, 13, 13); 
+    border-width: 6px;
+    border-style: groove;
+    margin-left: 65%;
+    margin-right: 10%;
+    background-color: blue;
+    padding-top: 1%;
+    padding-bottom: 1%;
+   margin-left: 45%;
+   margin-right: 15%;    
+}
+
+
+
+    .p3 {font-size: 150%;
+        text-align: center;
+        background-color: rgb(255, 13, 13); 
+        border-width: 6px;
+        border-style: groove;
+        margin-left: 65%;
+        margin-right: 10%;
+        background-color: blue;
+        padding-top: 1%;
+        padding-bottom: 1%;
+       margin-left: 15%;
+       margin-right: 35%;    
+    }
+   
+    .p4 {font-size: 150%;
+        text-align: center;
+        background-color: rgb(255, 13, 13); 
+        border-width: 6px;
+        border-style: groove;
+        margin-left: 65%;
+        margin-right: 20%;
+        background-color: blue;
+        padding-top: 1%;
+        padding-bottom: 1%;
+       margin-left: 45%;
+       margin-right: 15%;    
+    }
+        
+    .p5 {font-size: 150%;
+        text-align: center;
+        background-color: rgb(255, 13, 13); 
+        border-width: 6px;
+        border-style: groove;
+        margin-left: 65%;
+        margin-right: 10%;
+        background-color: blue;
+        padding-top: 1%;
+        padding-bottom: 1%;
+       margin-left: 15%;
+       margin-right: 45%;    
+    }
+    .p6 {font-size: 150%;
+        text-align: center;
+        background-color: rgb(255, 13, 13); 
+        border-width: 6px;
+        border-style: groove;
+        margin-left: 65%;
+        margin-right: 10%;
+        background-color: blue;
+        padding-top: 1%;
+        padding-bottom: 1%;
+       margin-left: 45%;
+       margin-right: 15%;    
+    }
+    .p7 {font-size: 150%;
+        text-align: center;
+        background-color: rgb(255, 13, 13); 
+        border-width: 6px;
+        border-style: groove;
+        margin-left: 65%;
+        margin-right: 10%;
+        background-color: blue;
+        padding-top: 1%;
+        padding-bottom: 1%;
+       margin-left: 15%;
+       margin-right: 45%;   }
+       
+       .p8 {font-size: 150%;
+        text-align: center;
+        background-color: rgb(255, 13, 13); 
+        border-width: 6px;
+        border-style: groove;
+        margin-left: 65%;
+        margin-right: 10%;
+        background-color: blue;
+        padding-top: 1%;
+        padding-bottom: 1%;
+       margin-left: 45%;
+       margin-right: 15%;   }
